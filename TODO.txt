@@ -1,0 +1,10 @@
+
+//TODO: set testings
+//TODO: Check preconditions of input parameters
+//TODO: Check if files are correct
+//TODO: Check if webservice is accesible
+//TODO: Call Webservice
+//TODO: Clasify Author and number of quotes from response
+//TODO: ClasifyAuthor an number of letters descending
+//TODO: Generate File1
+//TODO: Generate File2
