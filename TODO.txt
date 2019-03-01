@@ -1,7 +1,7 @@
 
-//TODO: set testings
-//TODO: Check preconditions of input parameters
+
 //TODO: Check if files are correct
+//TODO: set testings
 //TODO: Check if webservice is accesible
 //TODO: Call Webservice
 //TODO: Clasify Author and number of quotes from response
