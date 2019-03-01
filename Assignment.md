@@ -1,4 +1,4 @@
-# Technical interview assigment
+# Technical interview assignment
 
 ------------------------------------------------
 
